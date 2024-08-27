@@ -1,0 +1,13 @@
+.rating-stars {
+    color: gold;
+}
+.comment-box {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.like-dislike {
+    cursor: pointer;
+    margin-right: 10px;
+}
